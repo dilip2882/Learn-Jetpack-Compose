@@ -1,2 +1,2 @@
-# Learn-Jetpack-Compose
-Jetpack Compose Guidde
+# InvQR
+A Kotlin-based application that simplifies inventory management through QR code 

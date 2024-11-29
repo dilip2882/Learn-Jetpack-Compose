@@ -5,6 +5,8 @@ buildscript {
 }
 
 plugins {
+    alias(libs.plugins.hilt) apply false
+    alias(libs.plugins.ksp) apply false
     alias(kotlinx.plugins.serialization) apply false
     alias(libs.plugins.aboutLibraries) apply false
     alias(libs.plugins.firebase.crashlytics) apply false
